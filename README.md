@@ -20,3 +20,6 @@ The dataset contains images of recycled objects across six classes:
 • 137 trash (other) (110 train / 27 test)
 
 The total: 2527 images
+
+![image](https://github.com/Mohammed-AlSaleem/Trash-Classification/assets/129967291/267eb181-74e5-4cc6-9876-39cd27915f88)
+
